@@ -12,15 +12,19 @@ namespace RIP_GTA_IMAGES
             
 
         public async Task MainAsync(string[] Args){
+             if (System.IO.File.Exists(HashSite)) { HASH_HOST = System.IO.File.ReadAllText(HashSite); } 
+            if (System.IO.File.Exists(VehPrefixFile)) { HASH_HOST_CAR_PREFIX = System.IO.File.ReadAllText(VehPrefixFile); } 
 
             await ExtractSortAndGetImageFromUrl(Args.First());
             await Task.Delay(-1);
         }
 
         
-
-public static string HASH_HOST = "http://www.test.raccoon72.ru";
-public static string HashImageSite = HASH_HOST+"/cars/";
+        
+        public static string HASH_HOST = "http://www.test.raccoon72.ru";
+        public static string HASH_HOST_CAR_PREFIX = "cars";
+        public string HashSite = Environment.CurrentDirectory + "\\HashSite.txt";
+        public string VehPrefixFile = Environment.CurrentDirectory + "\\VehPrefix.txt";
 public static string[] Categorys = new string[] {
 "utility",
 "muscle",
@@ -57,7 +61,7 @@ public static async Task ExtractSortAndGetImageFromUrl(string CarCodeName){
             List<Task> Runab = new List<Task>();
 foreach(string Category in Categorys){
 string IN = CarCodeName.ToLower() + ".jpg";
-Runab.Add( ClientInTime(HashImageSite + Category + "/" + IN, CarImageDir + "\\" + Category + "\\" + IN));
+Runab.Add( ClientInTime(HASH_HOST+"/"+ HASH_HOST_CAR_PREFIX+"/" + Category + "/" + IN, CarImageDir + "\\" + Category + "\\" + IN));
 }
 
 for(; ; ){

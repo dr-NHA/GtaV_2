@@ -30,7 +30,7 @@ InitializeComponent();
 
         }
         public static string HASH_HOST = "http://www.test.raccoon72.ru";
-        public static string HASH_HOST_CAR_PREFIX = "car";
+        public static string HASH_HOST_CAR_PREFIX = "cars";
         public string HashSite = Environment.CurrentDirectory + "\\HashSite.txt";
         public string VehPrefixFile = Environment.CurrentDirectory + "\\VehPrefix.txt";
         public string Ripper = Environment.CurrentDirectory + "\\RIP_GTA_IMAGES.exe";

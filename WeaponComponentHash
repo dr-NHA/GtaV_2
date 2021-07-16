@@ -1,34 +1,34 @@
-AdvancedRifleClip01 , FA8FA10F
-AdvancedRifleClip02 , 8EC1C979
-AdvancedRifleVarmodLuxe , 377CD377
-APPistolClip01 , 31C4B22A
-APPistolClip02 , 249A17D5
-APPistolVarmodLuxe , 9B76C72C
-AssaultRifleClip01 , BE5EEA16
-AssaultRifleClip02 , B1214F9B
-AssaultRifleVarmodLuxe , 4EAD7533
-AssaultRifleMk2Camo , 911B24AF
-AssaultRifleMk2Camo02 , 37E5444B
-AssaultRifleMk2Camo03 , 538B7B97
-AssaultRifleMk2Camo04 , 25789F72
-AssaultRifleMk2Camo05 , C5495F2D
-AssaultRifleMk2Camo06 , CF8B73B1
-AssaultRifleMk2Camo07 , A9BB2811
-AssaultRifleMk2Camo08 , FC674D54
-AssaultRifleMk2Camo09 , 7C7FCD9B
-AssaultRifleMk2Camo10 , A5C38392
-AssaultRifleMk2CamoIndependence01 , B9B15DB0
-AssaultRifleMk2Clip01 , 8610343F
-AssaultRifleMk2Clip02 , D12ACA6F
-AssaultRifleMk2ClipArmorPiercing , A7DD1E58
-AssaultRifleMk2ClipFMJ , 63E0A098
-AssaultRifleMk2ClipIncendiary , FB70D853
-AssaultRifleMk2ClipTracer , EF2C78C1
-AssaultSMGClip01 , 8D1307B0
-AssaultSMGClip02 , BB46E417
-AssaultSMGVarmodLowrider , 278C78AF
-AssaultShotgunClip01 , 94E81BC7
-AssaultShotgunClip02 , 86BD7F72
+AdvancedRifleClip01 , FA8FA10F , AdvancedRifle 
+AdvancedRifleClip02 , 8EC1C979 , AdvancedRifle 
+AdvancedRifleVarmodLuxe , 377CD377 , AdvancedRifle 
+APPistolClip01 , 31C4B22A , APPistol 
+APPistolClip02 , 249A17D5 , APPistol 
+APPistolVarmodLuxe , 9B76C72C , APPistol 
+AssaultRifleClip01 , BE5EEA16 , AssaultRifle 
+AssaultRifleClip02 , B1214F9B , AssaultRifle 
+AssaultRifleVarmodLuxe , 4EAD7533 , AssaultRifle 
+AssaultRifleMk2Camo , 911B24AF , AssaultrifleMk2 
+AssaultRifleMk2Camo02 , 37E5444B , AssaultrifleMk2 
+AssaultRifleMk2Camo03 , 538B7B97 , AssaultrifleMk2 
+AssaultRifleMk2Camo04 , 25789F72 , AssaultrifleMk2 
+AssaultRifleMk2Camo05 , C5495F2D , AssaultrifleMk2 
+AssaultRifleMk2Camo06 , CF8B73B1 , AssaultrifleMk2 
+AssaultRifleMk2Camo07 , A9BB2811 , AssaultrifleMk2 
+AssaultRifleMk2Camo08 , FC674D54 , AssaultrifleMk2 
+AssaultRifleMk2Camo09 , 7C7FCD9B , AssaultrifleMk2 
+AssaultRifleMk2Camo10 , A5C38392 , AssaultrifleMk2 
+AssaultRifleMk2CamoIndependence01 , B9B15DB0 , AssaultrifleMk2 
+AssaultRifleMk2Clip01 , 8610343 , AssaultrifleMk2 
+AssaultRifleMk2Clip02 , D12ACA6F , AssaultrifleMk2 
+AssaultRifleMk2ClipArmorPiercing , A7DD1E58 , AssaultrifleMk2 
+AssaultRifleMk2ClipFMJ , 63E0A098 , AssaultrifleMk2 
+AssaultRifleMk2ClipIncendiary , FB70D853 , AssaultrifleMk2 
+AssaultRifleMk2ClipTracer , EF2C78C1 , AssaultrifleMk2 
+AssaultSMGClip01 , 8D1307B0 , AssaultSMG 
+AssaultSMGClip02 , BB46E417 , AssaultSMG 
+AssaultSMGVarmodLowrider , 278C78AF , AssaultSMG 
+AssaultShotgunClip01 , 94E81BC7 , AssaultShotgun 
+AssaultShotgunClip02 , 86BD7F72 , AssaultShotgun 
 AtArAfGrip , C164F53
 AtArAfGrip02 , 9D65907A
 AtArBarrel01 , 43A49D26
@@ -87,293 +87,293 @@ AtSrBarrel01 , 909630B7
 AtSrBarrel02 , 108AB09E
 AtSrSupp , E608B35E
 AtSrSupp03 , AC42DF71
-BullpupRifleClip01 , C5A12F80
-BullpupRifleClip02 , B3688B0F
-BullpupRifleVarmodLow , A857BC78
-BullpupRifleMk2Camo , C5A12F80
-BullpupRifleMk2Camo02 , AE4055B7
-BullpupRifleMk2Camo03 , B905ED6B
-BullpupRifleMk2Camo04 , A6C448E8
-BullpupRifleMk2Camo05 , 9486246C
-BullpupRifleMk2Camo06 , 8A390FD2
-BullpupRifleMk2Camo07 , EFFFDB5E
-BullpupRifleMk2Camo08 , DDBDB6DA
-BullpupRifleMk2Camo09 , CB631225
-BullpupRifleMk2Camo10 , A87D541E
-BullpupRifleMk2CamoIndependence01 , C5E9AE52
-BullpupRifleMk2Clip01 , 18929DA
-BullpupRifleMk2Clip02 , EFB00628
-BullpupRifleMk2ClipArmorPiercing , FAA7F5ED
-BullpupRifleMk2ClipFMJ , 43621710
-BullpupRifleMk2ClipIncendiary , A99CF95A
-BullpupRifleMk2ClipTracer , 822060A9
-BullpupShotgunClip01 , C94E550E
-CarbineRifleClip01 , 9FBE33EC
-CarbineRifleClip02 , 91109691
-CarbineRifleVarmodLuxe , D89B9658
-CarbineRifleMk2Camo , 4BDD6F16
-CarbineRifleMk2Camo02 , 406A7908
-CarbineRifleMk2Camo03 , 2F3856A4
-CarbineRifleMk2Camo04 , E50C424D
-CarbineRifleMk2Camo05 , D37D1F2F
-CarbineRifleMk2Camo06 , 86268483
-CarbineRifleMk2Camo07 , F420E076
-CarbineRifleMk2Camo08 , AAE14DF8
-CarbineRifleMk2Camo09 , 9893A95D
-CarbineRifleMk2Camo10 , 6B13CD3E
-CarbineRifleMk2CamoIndependence01 , DA55CD3F
-CarbineRifleMk2Clip01 , 4C7A391E
-CarbineRifleMk2Clip02 , 5DD5DBD5
-CarbineRifleMk2ClipArmorPiercing , 255D5D57
-CarbineRifleMk2ClipFMJ , 44032F11
-CarbineRifleMk2ClipIncendiary , 3D25C2A7
-CarbineRifleMk2ClipTracer , 1757F566
-CombatMGClip01 , E1FFB34A
-CombatMGClip02 , D6C59CD6
-CombatMGVarmodLowrider , 92FECCDD
-CombatMGMk2Camo , 4A768CB5
-CombatMGMk2Camo02 , CCE06BBD
-CombatMGMk2Camo03 , BE94CF26
-CombatMGMk2Camo04 , 7609BE11
-CombatMGMk2Camo05 , 48AF6351
-CombatMGMk2Camo06 , 9186750A
-CombatMGMk2Camo07 , 84555AA8
-CombatMGMk2Camo08 , 1B4C088B
-CombatMGMk2Camo09 , E046DFC
-CombatMGMk2Camo10 , 28B536E
-CombatMGMk2CamoIndependence01 , D703C94D
-CombatMGMk2Clip01 , 492B257C
-CombatMGMk2Clip02 , 17DF42E9
-CombatMGMk2ClipArmorPiercing , 29882423
-CombatMGMk2ClipFMJ , 57EF1CC8
-CombatMGMk2ClipIncendiary , C326BDBA
-CombatMGMk2ClipTracer , F6649745
-CombatPDWClip01 , 4317F19E
-CombatPDWClip02 , 334A5203
-CombatPistolClip01 , 721B079
-CombatPistolClip02 , D67B4F2D
-CombatPistolVarmodLowrider , C6654D72
-CompactRifleClip01 , 513F0A63
-CompactRifleClip02 , 59FF9BF8
-CompactRifleClip03 , C607740E
+BullpupRifleClip01 , C5A12F80 , BullpupRifle 
+BullpupRifleClip02 , B3688B0F , BullpupRifle 
+BullpupRifleVarmodLow , A857BC78 , BullpupRifle 
+BullpupRifleMk2Camo , C5A12F80 , BullpupRifle 
+BullpupRifleMk2Camo02 , AE4055B7 , BullpupRifle 
+BullpupRifleMk2Camo03 , B905ED6B , BullpupRifle 
+BullpupRifleMk2Camo04 , A6C448E8 , BullpupRifle 
+BullpupRifleMk2Camo05 , 9486246C , BullpupRifle 
+BullpupRifleMk2Camo06 , 8A390FD2 , BullpupRifle 
+BullpupRifleMk2Camo07 , EFFFDB5E , BullpupRifle 
+BullpupRifleMk2Camo08 , DDBDB6DA , BullpupRifle 
+BullpupRifleMk2Camo09 , CB631225 , BullpupRifle 
+BullpupRifleMk2Camo10 , A87D541E , BullpupRifle 
+BullpupRifleMk2CamoIndependence01 , C5E9AE52 , BullpupRifle 
+BullpupRifleMk2Clip01 , 18929DA , BullpupRifle 
+BullpupRifleMk2Clip02 , EFB00628 , BullpupRifle 
+BullpupRifleMk2ClipArmorPiercing , FAA7F5ED , BullpupRifle 
+BullpupRifleMk2ClipFMJ , 43621710 , BullpupRifle 
+BullpupRifleMk2ClipIncendiary , A99CF95A , BullpupRifle 
+BullpupRifleMk2ClipTracer , 822060A9 , BullpupRifle 
+BullpupShotgunClip01 , C94E550E , BullpupShotgun 
+CarbineRifleClip01 , 9FBE33EC , CarbineRifle 
+CarbineRifleClip02 , 91109691 , CarbineRifle 
+CarbineRifleVarmodLuxe , D89B9658 , CarbineRifle 
+CarbineRifleMk2Camo , 4BDD6F16 , CarbineRifleMk2 
+CarbineRifleMk2Camo02 , 406A7908 , CarbineRifleMk2 
+CarbineRifleMk2Camo03 , 2F3856A4 , CarbineRifleMk2 
+CarbineRifleMk2Camo04 , E50C424D , CarbineRifleMk2 
+CarbineRifleMk2Camo05 , D37D1F2F , CarbineRifleMk2 
+CarbineRifleMk2Camo06 , 86268483 , CarbineRifleMk2 
+CarbineRifleMk2Camo07 , F420E076 , CarbineRifleMk2 
+CarbineRifleMk2Camo08 , AAE14DF8 , CarbineRifleMk2 
+CarbineRifleMk2Camo09 , 9893A95D , CarbineRifleMk2 
+CarbineRifleMk2Camo10 , 6B13CD3E , CarbineRifleMk2 
+CarbineRifleMk2CamoIndependence01 , DA55CD3F , CarbineRifleMk2 
+CarbineRifleMk2Clip01 , 4C7A391E , CarbineRifleMk2 
+CarbineRifleMk2Clip02 , 5DD5DBD5 , CarbineRifleMk2 
+CarbineRifleMk2ClipArmorPiercing , 255D5D57 , CarbineRifleMk2 
+CarbineRifleMk2ClipFMJ , 44032F11 , CarbineRifleMk2 
+CarbineRifleMk2ClipIncendiary , 3D25C2A7 , CarbineRifleMk2 
+CarbineRifleMk2ClipTracer , 1757F566 , CarbineRifleMk2 
+CombatMGClip01 , E1FFB34A , CombatMG 
+CombatMGClip02 , D6C59CD6 , CombatMG 
+CombatMGVarmodLowrider , 92FECCDD , CombatMG 
+CombatMGMk2Camo , 4A768CB5 , CombatMGMk2 
+CombatMGMk2Camo02 , CCE06BBD , CombatMGMk2 
+CombatMGMk2Camo03 , BE94CF26 , CombatMGMk2 
+CombatMGMk2Camo04 , 7609BE11 , CombatMGMk2 
+CombatMGMk2Camo05 , 48AF6351 , CombatMGMk2 
+CombatMGMk2Camo06 , 9186750A , CombatMGMk2 
+CombatMGMk2Camo07 , 84555AA8 , CombatMGMk2 
+CombatMGMk2Camo08 , 1B4C088B , CombatMGMk2 
+CombatMGMk2Camo09 , E046DFC , CombatMGMk2 
+CombatMGMk2Camo10 , 28B536E , CombatMGMk2 
+CombatMGMk2CamoIndependence01 , D703C94D , CombatMGMk2 
+CombatMGMk2Clip01 , 492B257C , CombatMGMk2 
+CombatMGMk2Clip02 , 17DF42E9 , CombatMGMk2 
+CombatMGMk2ClipArmorPiercing , 29882423 , CombatMGMk2 
+CombatMGMk2ClipFMJ , 57EF1CC8 , CombatMGMk2 
+CombatMGMk2ClipIncendiary , C326BDBA , CombatMGMk2 
+CombatMGMk2ClipTracer , F6649745 , CombatMGMk2 
+CombatPDWClip01 , 4317F19E , CombatPDW 
+CombatPDWClip02 , 334A5203 , CombatPDW 
+CombatPistolClip01 , 721B079 , CombatPistol 
+CombatPistolClip02 , D67B4F2D , CombatPistol 
+CombatPistolVarmodLowrider , C6654D72 , CombatPistol 
+CompactRifleClip01 , 513F0A63 , CompactRifle 
+CompactRifleClip02 , 59FF9BF8 , CompactRifle 
+CompactRifleClip03 , C607740E , CompactRifle 
 DBShotgunClip01 , 29EA741E
 DoubleActionClip01 , 4F312CC1
-FireworkClip01 , E4E4C28D
-FlareGunClip01 , 93E9BD99
-FlashlightLight , DDB7390F
-GrenadeLauncherClip01 , 11AE5C97
-GusenbergClip01 , 1CE5A6A5
-GusenbergClip02 , EAC8C270
-HeavyPistolClip01 , D4A969A
-HeavyPistolClip02 , 64F9C62B
-HeavyPistolVarmodLuxe , 7A6A7B7B
-HeavyShotgunClip01 , 324F2D5F
-HeavyShotgunClip02 , 971CF6FD
-HeavySniperClip01 , 476F52F4
-HeavySniperMk2Camo , F8337D02
-HeavySniperMk2Camo0 , A62CDD5F
-HeavySniperMk2Camo02 , C5BEDD65
-HeavySniperMk2Camo03 , E9712475
-HeavySniperMk2Camo04 , 13AA78E7
-HeavySniperMk2Camo05 , 26591E50
-HeavySniperMk2Camo06 , 302731EC
-HeavySniperMk2Camo07 , AC722A78
-HeavySniperMk2Camo09 , CD776C82
-HeavySniperMk2Camo10 , ABC5ACC7
-HeavySniperMk2CamoIndependence01 , 6C32D2EB
-HeavySniperMk2Clip01 , FA1E1A28
-HeavySniperMk2Clip02 , 2CD8FF9D
-HeavySniperMk2ClipArmorPiercing , F835D6D4
-HeavySniperMk2ClipExplosive , 89EBDAA7
-HeavySniperMk2ClipFMJ , 3BE948F6
-HeavySniperMk2ClipIncendiary , EC0F617
-HomingLauncherClip01 , F8132D3F
-KnuckleVarmodBallas , EED9FD63
-KnuckleVarmodBase , F3462F33
-KnuckleVarmodDiamond , 9761D9DC
-KnuckleVarmodDollar , 50910C31
-KnuckleVarmodHate , 7DECFE30
-KnuckleVarmodKing , E28BABEF
-KnuckleVarmodLove , 3F4E8AA6
-KnuckleVarmodPimp , C613F685
-KnuckleVarmodPlayer , 8B808BB
-KnuckleVarmodVagos , 7AF3F785
-MGClip01 , F434EF84
-MGClip02 , 82158B47
-MGVarmodLowrider , D6DABABE
-MachinePistolClip01 , 476E85FF
-MachinePistolClip02 , B92C6979
-MarksmanPistolClip01 , CB9E41ED
-MarksmanRifleClip01 , D83B4141
-MarksmanRifleClip02 , CCFD2AC5
-MarksmanRifleMk2Camo , 9094FBA0
-MarksmanRifleMk2Camo02 , 7320F4B2
-MarksmanRifleMk2Camo03 , 60CF500F
-MarksmanRifleMk2Camo04 , FE668B3F
-MarksmanRifleMk2Camo05 , F3757559
-MarksmanRifleMk2Camo06 , 193B40E8
-MarksmanRifleMk2Camo07 , 107D2F6C
-MarksmanRifleMk2Camo08 , C4E91841
-MarksmanRifleMk2Camo09 , 9BB1C5D3
-MarksmanRifleMk2Camo10 , 3B61040B
-MarksmanRifleMk2CamoIndependence01 , B7A316DA
-MarksmanRifleMk2Clip01 , 94E12DCE
-MarksmanRifleMk2Clip02 , E6CFD1AA
-MarksmanRifleMk2ClipArmorPiercing , F46FD079
-MarksmanRifleMk2ClipFMJ , E14A9ED3
-MarksmanRifleMk2ClipIncendiary , 6DD7A86E
-MarksmanRifleMk2ClipTracer , D77A22D2
-MiniSMGClip01 , 84C8B2D3
-MiniSMGClip02 , 937ED0B7
-PumpShotgunMk2Camo , E3BD9E44
-PumpShotgunMk2Camo02 , 17148F9B
-PumpShotgunMk2Camo03 , 24D22B16
-PumpShotgunMk2Camo04 , F2BEC6F0
-PumpShotgunMk2Camo05 , 85627D
-PumpShotgunMk2Camo06 , DC2919C5
-PumpShotgunMk2Camo07 , E184247B
-PumpShotgunMk2Camo08 , D8EF9356
-PumpShotgunMk2Camo09 , EF29BFCA
-PumpShotgunMk2Camo10 , 67AEB165
-PumpShotgunMk2CamoIndependence01 , 46411A1D
-PumpShotgunMk2Clip01 , CD940141
-PumpShotgunMk2ClipArmorPiercing , 4E65B425
-PumpShotgunMk2ClipExplosive , 3BE4465D
-PumpShotgunMk2ClipHollowPoint , E9582927
-PumpShotgunMk2ClipIncendiary , 9F8A1BF5
+FireworkClip01 , E4E4C28D , Firework 
+FlareGunClip01 , 93E9BD99 , Flare 
+FlashlightLight , DDB7390F , Flashlight 
+GrenadeLauncherClip01 , 11AE5C97 , GrenadeLauncher 
+GusenbergClip01 , 1CE5A6A5 , Gusenberg 
+GusenbergClip02 , EAC8C270 , Gusenberg 
+HeavyPistolClip01 , D4A969A , HeavyPistol 
+HeavyPistolClip02 , 64F9C62B , HeavyPistol 
+HeavyPistolVarmodLuxe , 7A6A7B7B , HeavyPistol 
+HeavyShotgunClip01 , 324F2D5F , HeavyShotgun 
+HeavyShotgunClip02 , 971CF6FD , HeavyShotgun 
+HeavySniperClip01 , 476F52F4 , HeavySniper 
+HeavySniperMk2Camo , F8337D02 , HeavySniperMk2 
+HeavySniperMk2Camo0 , A62CDD5F , HeavySniperMk2 
+HeavySniperMk2Camo02 , C5BEDD65 , HeavySniperMk2 
+HeavySniperMk2Camo03 , E9712475 , HeavySniperMk2 
+HeavySniperMk2Camo04 , 13AA78E7 , HeavySniperMk2 
+HeavySniperMk2Camo05 , 26591E50 , HeavySniperMk2 
+HeavySniperMk2Camo06 , 302731EC , HeavySniperMk2 
+HeavySniperMk2Camo07 , AC722A78 , HeavySniperMk2 
+HeavySniperMk2Camo09 , CD776C82 , HeavySniperMk2 
+HeavySniperMk2Camo10 , ABC5ACC7 , HeavySniperMk2 
+HeavySniperMk2CamoIndependence01 , 6C32D2EB , HeavySniperMk2 
+HeavySniperMk2Clip01 , FA1E1A28 , HeavySniperMk2 
+HeavySniperMk2Clip02 , 2CD8FF9D , HeavySniperMk2 
+HeavySniperMk2ClipArmorPiercing , F835D6D4 , HeavySniperMk2 
+HeavySniperMk2ClipExplosive , 89EBDAA7 , HeavySniperMk2 
+HeavySniperMk2ClipFMJ , 3BE948F6 , HeavySniperMk2 
+HeavySniperMk2ClipIncendiary , EC0F617 , HeavySniperMk2 
+HomingLauncherClip01 , F8132D3F , HomingLauncher 
+KnuckleVarmodBallas , EED9FD63 , KnuckleDuster 
+KnuckleVarmodBase , F3462F33 , KnuckleDuster 
+KnuckleVarmodDiamond , 9761D9DC , KnuckleDuster 
+KnuckleVarmodDollar , 50910C31 , KnuckleDuster 
+KnuckleVarmodHate , 7DECFE30 , KnuckleDuster 
+KnuckleVarmodKing , E28BABEF , KnuckleDuster 
+KnuckleVarmodLove , 3F4E8AA6 , KnuckleDuster 
+KnuckleVarmodPimp , C613F685 , KnuckleDuster 
+KnuckleVarmodPlayer , 8B808BB , KnuckleDuster 
+KnuckleVarmodVagos , 7AF3F785 , KnuckleDuster 
+MGClip01 , F434EF84 , MG
+MGClip02 , 82158B47 , MG
+MGVarmodLowrider , D6DABABE , MG
+MachinePistolClip01 , 476E85FF , MachinePistol
+MachinePistolClip02 , B92C6979 , MachinePistol
+MarksmanPistolClip01 , CB9E41ED , MachinePistol
+MarksmanRifleClip01 , D83B4141 , MarksmanRifle 
+MarksmanRifleClip02 , CCFD2AC5 , MarksmanRifle 
+MarksmanRifleMk2Camo , 9094FBA0 , MarksmanRifleMk2 
+MarksmanRifleMk2Camo02 , 7320F4B2 , MarksmanRifleMk2 
+MarksmanRifleMk2Camo03 , 60CF500F , MarksmanRifleMk2 
+MarksmanRifleMk2Camo04 , FE668B3F , MarksmanRifleMk2 
+MarksmanRifleMk2Camo05 , F3757559 , MarksmanRifleMk2 
+MarksmanRifleMk2Camo06 , 193B40E8 , MarksmanRifleMk2 
+MarksmanRifleMk2Camo07 , 107D2F6C , MarksmanRifleMk2 
+MarksmanRifleMk2Camo08 , C4E91841 , MarksmanRifleMk2 
+MarksmanRifleMk2Camo09 , 9BB1C5D3 , MarksmanRifleMk2 
+MarksmanRifleMk2Camo10 , 3B61040B , MarksmanRifleMk2 
+MarksmanRifleMk2CamoIndependence01 , B7A316DA , MarksmanRifleMk2 
+MarksmanRifleMk2Clip01 , 94E12DCE , MarksmanRifleMk2 
+MarksmanRifleMk2Clip02 , E6CFD1AA , MarksmanRifleMk2 
+MarksmanRifleMk2ClipArmorPiercing , F46FD079 , MarksmanRifleMk2 
+MarksmanRifleMk2ClipFMJ , E14A9ED3 , MarksmanRifleMk2 
+MarksmanRifleMk2ClipIncendiary , 6DD7A86E , MarksmanRifleMk2 
+MarksmanRifleMk2ClipTracer , D77A22D2 , MarksmanRifleMk2 
+MiniSMGClip01 , 84C8B2D3 , MiniSMG 
+MiniSMGClip02 , 937ED0B7 , MiniSMG 
+PumpShotgunMk2Camo , E3BD9E44 , PumpShotgunMk2 
+PumpShotgunMk2Camo02 , 17148F9B , PumpShotgunMk2 
+PumpShotgunMk2Camo03 , 24D22B16 , PumpShotgunMk2 
+PumpShotgunMk2Camo04 , F2BEC6F0 , PumpShotgunMk2 
+PumpShotgunMk2Camo05 , 85627D , PumpShotgunMk2 
+PumpShotgunMk2Camo06 , DC2919C5 , PumpShotgunMk2 
+PumpShotgunMk2Camo07 , E184247B , PumpShotgunMk2 
+PumpShotgunMk2Camo08 , D8EF9356 , PumpShotgunMk2 
+PumpShotgunMk2Camo09 , EF29BFCA , PumpShotgunMk2 
+PumpShotgunMk2Camo10 , 67AEB165 , PumpShotgunMk2 
+PumpShotgunMk2CamoIndependence01 , 46411A1D , PumpShotgunMk2 
+PumpShotgunMk2Clip01 , CD940141 , PumpShotgunMk2 
+PumpShotgunMk2ClipArmorPiercing , 4E65B425 , PumpShotgunMk2 
+PumpShotgunMk2ClipExplosive , 3BE4465D , PumpShotgunMk2 
+PumpShotgunMk2ClipHollowPoint , E9582927 , PumpShotgunMk2 
+PumpShotgunMk2ClipIncendiary , 9F8A1BF5 , PumpShotgunMk2 
 MRflBarrel01 , 381B5D89
 MRflBarrel02 , 68373DDC
-MicroSMGClip01 , CB48AEF0
-MicroSMGClip02 , 10E6BA2B
-MicroSMGVarmodLuxe , 487AAE09
-MinigunClip01 , C8DE6F06
-MusketClip01 , 4ED2073F
-Pistol50Clip01 , 2297BE19
-Pistol50Clip02 , D9D3AC92
-Pistol50VarmodLuxe , 77B8AB2F
-PistolClip01 , FED0FD71
-PistolClip02 , ED265A1C
-PistolVarmodLuxe , D7391086
-PistolMk2Camo , 5C6C749C
-PistolMk2Camo02 , 15F7A390
-PistolMk2Camo03 , 968E24DB
-PistolMk2Camo04 , 17BFA99
-PistolMk2Camo05 , F2685C72
-PistolMk2Camo06 , DD2231E6
-PistolMk2Camo07 , BB43EE76
-PistolMk2Camo08 , 4D901310
-PistolMk2Camo09 , 5F31B653
-PistolMk2Camo10 , 697E19A0
-PistolMk2CamoIndependence01 , 930CB951
-PistolMk2Clip01 , 94F42D62
-PistolMk2Clip02 , 5ED6C128
-PistolMk2ClipFMJ , 4F37DF2A
-PistolMk2ClipHollowPoint , 85FEA109
-PistolMk2ClipIncendiary , 2BBD7A3A
-PistolMk2ClipTracer , 25CAAEAF
-PoliceTorchFlashlight , C5A30FED
-PumpShotgunClip01 , D16F1438
-PumpShotgunVarmodLowrider , A2D79DDB
-RPGClip01 , 4EA573B3
-RailgunClip01 , 384F3E8
-RevolverClip01 , E9867CE3
-RevolverVarmodBoss , 16EE3040
-RevolverVarmodGoon , 9493B80D
-RevolverMk2Camo , C03FED9F
-RevolverMk2Camo02 , B5DE24
-RevolverMk2Camo03 , A7FF1B8
-RevolverMk2Camo04 , F2E24289
-RevolverMk2Camo05 , 11317F27
-RevolverMk2Camo06 , 17C30C42
-RevolverMk2Camo07 , 257927AE
-RevolverMk2Camo08 , 37304B1C
-RevolverMk2Camo09 , 48DAEE71
-RevolverMk2Camo10 , 20ED9B5B
-RevolverMk2CamoIndependence01 , D951E867
-RevolverMk2Clip01 , BA23D8BE
-RevolverMk2ClipFMJ , DC8BA3F
-RevolverMk2ClipHollowPoint , 10F42E8F
-RevolverMk2ClipIncendiary , EFBF25
-RevolverMk2ClipTracer , C6D8E476
-SMGClip01 , 26574997
-SMGClip02 , 350966FB
-SMGVarmodLuxe , 27872C90
-SMGMk2Camo , C4979067
-SMGMk2Camo02 , 3815A945
-SMGMk2Camo03 , 4B4B4FB0
-SMGMk2Camo04 , EC729200
-SMGMk2Camo05 , 48F64B22
-SMGMk2Camo06 , 35992468
-SMGMk2Camo07 , 24B782A5
-SMGMk2Camo08 , A2E67F01
-SMGMk2Camo09 , 2218FD68
-SMGMk2Camo10 , 45C5C3C5
-SMGMk2CamoIndependence01 , 399D558F
-SMGMk2Clip01 , 4C24806E
-SMGMk2Clip02 , B9835B2E
-SMGMk2ClipFMJ , B5A715F
-SMGMk2ClipHollowPoint , 3A1BD6FA
-SMGMk2ClipIncendiary , D99222E5
-SMGMk2ClipTracer , 7FEA36EC
-SNSPistolClip01 , F8802ED9
-SNSPistolClip02 , 7B0033B3
-SNSPistolVarmodLowrider , 8033ECAF
-SNSPistolMk2Camo , F7BEEDD
-SNSPistolMk2Camo02 , 8A612EF6
-SNSPistolMk2Camo03 , 76FA8829
-SNSPistolMk2Camo04 , A93C6CAC
-SNSPistolMk2Camo05 , 9C905354
-SNSPistolMk2Camo06 , 4DFA3621
-SNSPistolMk2Camo07 , 42E91FFF
-SNSPistolMk2Camo08 , 54A8437D
-SNSPistolMk2Camo09 , 68C2746
-SNSPistolMk2Camo10 , 2366E467
-SNSPistolMk2CamoIndependence01 , 441882E6
-SNSPistolMk2CamoSlide , E7EE68EA
-SNSPistolMk2Camo02Slide , 29366D21
-SNSPistolMk2Camo03Slide , 3ADE514B
-SNSPistolMk2Camo04Slide , E64513E9
-SNSPistolMk2Camo05Slide , CD7AEB9A
-SNSPistolMk2Camo06Slide , FA7B27A6
-SNSPistolMk2Camo07Slide , E285CA9A
-SNSPistolMk2Camo08Slide , 2B904B19
-SNSPistolMk2Camo09Slide , 22C24F9C
-SNSPistolMk2Camo10Slide , 8D0D5ECD
-SNSPistolMk2CamoIndependence01Slide , 1F07150A
-SNSPistolMk2Clip01 , 1466CE6
-SNSPistolMk2Clip02 , CE8C0772
-SNSPistolMk2ClipFMJ , C111EB26
-SNSPistolMk2ClipHollowPoint , 8D107402
-SNSPistolMk2ClipIncendiary , E6AD5F79
-SNSPistolMk2ClipTracer , 902DA26E
-SawnoffShotgunClip01 , C7D62225
-SawnoffShotgunVarmodLuxe , 85A64DF9
-SniperRifleClip01 , 9BC64089
-SniperRifleVarmodLuxe , 4032B5E7
-SpecialCarbineClip01 , C6C7E581
-SpecialCarbineClip02 , 7C8BD10E
-SpecialCarbineVarmodLowrider , 730154F2
-SpecialCarbineMk2Camo , D40BB53B
-SpecialCarbineMk2Camo02 , 431B238B
-SpecialCarbineMk2Camo03 , 34CF86F4
-SpecialCarbineMk2Camo04 , B4C306DD
-SpecialCarbineMk2Camo05 , EE677A25
-SpecialCarbineMk2Camo06 , DF90DC78
-SpecialCarbineMk2Camo07 , A4C31EE
-SpecialCarbineMk2Camo08 , 89CFB0F7
-SpecialCarbineMk2Camo09 , 7B82145C
-SpecialCarbineMk2Camo10 , 899CAF75
-SpecialCarbineMk2CamoIndependence01 , 5218C819
-SpecialCarbineMk2Clip01 , 16C69281
-SpecialCarbineMk2Clip02 , DE1FA12C
-SpecialCarbineMk2ClipArmorPiercing , 51351635
-SpecialCarbineMk2ClipFMJ , 503DEA90
-SpecialCarbineMk2ClipIncendiary , DE011286
-SpecialCarbineMk2ClipTracer , 8765C68A
-SwitchbladeVarmodBase , 9137A500
-SwitchbladeVarmodVar1 , 5B3E7DB6
-SwitchbladeVarmodVar2 , E7939662
-VintagePistolClip01 , 45A3B6BB
-VintagePistolClip02 , 33BA12E8
-UpNAtomizerVarmodXmas18 , D7DBF707
+MicroSMGClip01 , CB48AEF0 , MicroSMG 
+MicroSMGClip02 , 10E6BA2B , MicroSMG 
+MicroSMGVarmodLuxe , 487AAE09 , MicroSMG 
+MinigunClip01 , C8DE6F06 , Minigun 
+MusketClip01 , 4ED2073F , Musket 
+Pistol50Clip01 , 2297BE19 , Pistol50 
+Pistol50Clip02 , D9D3AC92 , Pistol50 
+Pistol50VarmodLuxe , 77B8AB2F , Pistol50 
+PistolClip01 , FED0FD71 , Pistol 
+PistolClip02 , ED265A1C , Pistol 
+PistolVarmodLuxe , D7391086 , Pistol 
+PistolMk2Camo , 5C6C749C , PistolMk2 
+PistolMk2Camo02 , 15F7A390 , PistolMk2 
+PistolMk2Camo03 , 968E24DB , PistolMk2 
+PistolMk2Camo04 , 17BFA99 , PistolMk2 
+PistolMk2Camo05 , F2685C72 , PistolMk2 
+PistolMk2Camo06 , DD2231E6 , PistolMk2 
+PistolMk2Camo07 , BB43EE76 , PistolMk2 
+PistolMk2Camo08 , 4D901310 , PistolMk2 
+PistolMk2Camo09 , 5F31B653 , PistolMk2 
+PistolMk2Camo10 , 697E19A0 , PistolMk2 
+PistolMk2CamoIndependence01 , 930CB951 , PistolMk2 
+PistolMk2Clip01 , 94F42D62 , PistolMk2 
+PistolMk2Clip02 , 5ED6C128 , PistolMk2 
+PistolMk2ClipFMJ , 4F37DF2A , PistolMk2 
+PistolMk2ClipHollowPoint , 85FEA109 , PistolMk2 
+PistolMk2ClipIncendiary , 2BBD7A3A , PistolMk2 
+PistolMk2ClipTracer , 25CAAEAF , PistolMk2 
+PoliceTorchFlashlight , C5A30FED , Flashlight
+PumpShotgunClip01 , D16F1438 , PumpShotgun
+PumpShotgunVarmodLowrider , A2D79DDB , PumpShotgun
+RPGClip01 , 4EA573B3 , RPG 
+RailgunClip01 , 384F3E8 , Railgun 
+RevolverClip01 , E9867CE3 , Revolver 
+RevolverVarmodBoss , 16EE3040 , Revolver 
+RevolverVarmodGoon , 9493B80D , Revolver 
+RevolverMk2Camo , C03FED9F , RevolverMk2
+RevolverMk2Camo02 , B5DE24 , RevolverMk2
+RevolverMk2Camo03 , A7FF1B8 , RevolverMk2
+RevolverMk2Camo04 , F2E24289 , RevolverMk2
+RevolverMk2Camo05 , 11317F27 , RevolverMk2
+RevolverMk2Camo06 , 17C30C42 , RevolverMk2
+RevolverMk2Camo07 , 257927AE , RevolverMk2
+RevolverMk2Camo08 , 37304B1C , RevolverMk2
+RevolverMk2Camo09 , 48DAEE71 , RevolverMk2
+RevolverMk2Camo10 , 20ED9B5B , RevolverMk2
+RevolverMk2CamoIndependence01 , D951E867 , RevolverMk2
+RevolverMk2Clip01 , BA23D8BE , RevolverMk2
+RevolverMk2ClipFMJ , DC8BA3F , RevolverMk2
+RevolverMk2ClipHollowPoint , 10F42E8F , RevolverMk2
+RevolverMk2ClipIncendiary , EFBF25 , RevolverMk2
+RevolverMk2ClipTracer , C6D8E476 , RevolverMk2
+SMGClip01 , 26574997 , SMG 
+SMGClip02 , 350966FB , SMG 
+SMGVarmodLuxe , 27872C90 , SMG 
+SMGMk2Camo , C4979067 , SMGMk2 
+SMGMk2Camo02 , 3815A945 , SMGMk2 
+SMGMk2Camo03 , 4B4B4FB0 , SMGMk2 
+SMGMk2Camo04 , EC729200 , SMGMk2 
+SMGMk2Camo05 , 48F64B22 , SMGMk2 
+SMGMk2Camo06 , 35992468 , SMGMk2 
+SMGMk2Camo07 , 24B782A5 , SMGMk2 
+SMGMk2Camo08 , A2E67F01 , SMGMk2 
+SMGMk2Camo09 , 2218FD68 , SMGMk2 
+SMGMk2Camo10 , 45C5C3C5 , SMGMk2 
+SMGMk2CamoIndependence01 , 399D558F , SMGMk2 
+SMGMk2Clip01 , 4C24806E , SMGMk2 
+SMGMk2Clip02 , B9835B2E , SMGMk2 
+SMGMk2ClipFMJ , B5A715F , SMGMk2 
+SMGMk2ClipHollowPoint , 3A1BD6FA , SMGMk2 
+SMGMk2ClipIncendiary , D99222E5 , SMGMk2 
+SMGMk2ClipTracer , 7FEA36EC , SMGMk2 
+SNSPistolClip01 , F8802ED9 , SNSPistol
+SNSPistolClip02 , 7B0033B3 , SNSPistol
+SNSPistolVarmodLowrider , 8033ECAF , SNSPistol
+SNSPistolMk2Camo , F7BEEDD , SNSPistolMk2 
+SNSPistolMk2Camo02 , 8A612EF6 , SNSPistolMk2 
+SNSPistolMk2Camo03 , 76FA8829 , SNSPistolMk2 
+SNSPistolMk2Camo04 , A93C6CAC , SNSPistolMk2 
+SNSPistolMk2Camo05 , 9C905354 , SNSPistolMk2 
+SNSPistolMk2Camo06 , 4DFA3621 , SNSPistolMk2 
+SNSPistolMk2Camo07 , 42E91FFF , SNSPistolMk2 
+SNSPistolMk2Camo08 , 54A8437D , SNSPistolMk2 
+SNSPistolMk2Camo09 , 68C2746 , SNSPistolMk2 
+SNSPistolMk2Camo10 , 2366E467 , SNSPistolMk2 
+SNSPistolMk2CamoIndependence01 , 441882E6 , SNSPistolMk2 
+SNSPistolMk2CamoSlide , E7EE68EA , SNSPistolMk2 
+SNSPistolMk2Camo02Slide , 29366D21 , SNSPistolMk2 
+SNSPistolMk2Camo03Slide , 3ADE514B , SNSPistolMk2 
+SNSPistolMk2Camo04Slide , E64513E9 , SNSPistolMk2 
+SNSPistolMk2Camo05Slide , CD7AEB9A , SNSPistolMk2 
+SNSPistolMk2Camo06Slide , FA7B27A6 , SNSPistolMk2 
+SNSPistolMk2Camo07Slide , E285CA9A , SNSPistolMk2 
+SNSPistolMk2Camo08Slide , 2B904B19 , SNSPistolMk2 
+SNSPistolMk2Camo09Slide , 22C24F9C , SNSPistolMk2 
+SNSPistolMk2Camo10Slide , 8D0D5ECD , SNSPistolMk2 
+SNSPistolMk2CamoIndependence01Slide , 1F07150A , SNSPistolMk2 
+SNSPistolMk2Clip01 , 1466CE6 , SNSPistolMk2 
+SNSPistolMk2Clip02 , CE8C0772 , SNSPistolMk2 
+SNSPistolMk2ClipFMJ , C111EB26 , SNSPistolMk2 
+SNSPistolMk2ClipHollowPoint , 8D107402 , SNSPistolMk2 
+SNSPistolMk2ClipIncendiary , E6AD5F79 , SNSPistolMk2 
+SNSPistolMk2ClipTracer , 902DA26E , SNSPistolMk2 
+SawnoffShotgunClip01 , C7D62225 , SawnOffShotgun 
+SawnoffShotgunVarmodLuxe , 85A64DF9 , SawnOffShotgun 
+SniperRifleClip01 , 9BC64089 , SniperRifle 
+SniperRifleVarmodLuxe , 4032B5E7 , SniperRifle 
+SpecialCarbineClip01 , C6C7E581 , SpecialCarbine 
+SpecialCarbineClip02 , 7C8BD10E , SpecialCarbine 
+SpecialCarbineVarmodLowrider , 730154F2 , SpecialCarbine 
+SpecialCarbineMk2Camo , D40BB53B , SpecialCarbineMk2 
+SpecialCarbineMk2Camo02 , 431B238B , SpecialCarbineMk2 
+SpecialCarbineMk2Camo03 , 34CF86F4 , SpecialCarbineMk2 
+SpecialCarbineMk2Camo04 , B4C306DD , SpecialCarbineMk2 
+SpecialCarbineMk2Camo05 , EE677A25 , SpecialCarbineMk2 
+SpecialCarbineMk2Camo06 , DF90DC78 , SpecialCarbineMk2 
+SpecialCarbineMk2Camo07 , A4C31EE , SpecialCarbineMk2 
+SpecialCarbineMk2Camo08 , 89CFB0F7 , SpecialCarbineMk2 
+SpecialCarbineMk2Camo09 , 7B82145C , SpecialCarbineMk2 
+SpecialCarbineMk2Camo10 , 899CAF75 , SpecialCarbineMk2 
+SpecialCarbineMk2CamoIndependence01 , 5218C819 , SpecialCarbineMk2 
+SpecialCarbineMk2Clip01 , 16C69281 , SpecialCarbineMk2 
+SpecialCarbineMk2Clip02 , DE1FA12C , SpecialCarbineMk2 
+SpecialCarbineMk2ClipArmorPiercing , 51351635 , SpecialCarbineMk2 
+SpecialCarbineMk2ClipFMJ , 503DEA90 , SpecialCarbineMk2 
+SpecialCarbineMk2ClipIncendiary , DE011286 , SpecialCarbineMk2 
+SpecialCarbineMk2ClipTracer , 8765C68A , SpecialCarbineMk2 
+SwitchbladeVarmodBase , 9137A500 , SwitchBlade 
+SwitchbladeVarmodVar1 , 5B3E7DB6 , SwitchBlade 
+SwitchbladeVarmodVar2 , E7939662 , SwitchBlade 
+VintagePistolClip01 , 45A3B6BB , VintagePistol 
+VintagePistolClip02 , 33BA12E8 , VintagePistol
+UpNAtomizerVarmodXmas18 , D7DBF707 , UpNAtomizer 
 Invalid , FFFFFFFF

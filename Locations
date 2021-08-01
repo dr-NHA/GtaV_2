@@ -13,78 +13,77 @@
 --LocationName , LocationX;LocationY;LocationZ , Category
 --
 --Clothing:
-Polito Bay , -4.509100;30.571024;6521.252930 , Clothing
-Grapeseed , 1678.057495;41.299820;4819.882324 , Clothing
-Grand Senora , 1179.679688;37.124043;2691.378662 , Clothing
-Great Chaparral , -1089.404785;2697.033447;19.442095 , Clothing
-Suburban - Havick , 134.122055;53.864090;-200.211334 , Clothing
-Ponsonbys - Burton , -148.234741;38.104240;-308.074463 , Clothing
-Ponsonbys - Rockford Hills- , -725.551453;36.570301;-162.833710 , Clothing
-Ponsonbys - Morningwood , -1460.654419;48.728519;-227.550964 , Clothing
-Suburban - Del Perro , -1210.620361;16.549015;-784.160217 , Clothing
-Masks - Vespucci Beach , -1342.185913;4.443256;-1280.013428 , Clothing
-Binco - Vespucci , -814.432800;10.567306;-1085.986938 , Clothing
-Binco - Strawberry , 411.403564;28.742212;-806.654907 , Clothing
-Strawberry , 89.320786;28.800083;-1392.317627 , Clothing
+Polito Bay , -4.51;30.57;6521.25 , Clothing
+Grapeseed , 1678.06;41.3;4819.88 , Clothing
+Grand Senora , 1179.68;37.12;2691.38 , Clothing
+Great Chaparral , -1089.41;2697.03;19.44 , Clothing
+Suburban - Havick , 134.12;53.86;-200.21 , Clothing
+Ponsonbys - Burton , -148.23;38.1;-308.07 , Clothing
+Ponsonbys - Rockford Hills- , -725.55;36.57;-162.83 , Clothing
+Ponsonbys - Morningwood , -1460.65;48.73;-227.55 , Clothing
+Suburban - Del Perro , -1210.62;16.55;-784.16 , Clothing
+Masks - Vespucci Beach , -1342.19;4.44;-1280.01 , Clothing
+Binco - Vespucci , -814.43;10.57;-1085.99 , Clothing
+Binco - Strawberry , 411.4;28.74;-806.65 , Clothing
+Strawberry , 89.32;28.8;-1392.32 , Clothing
 --
 --Barbers:
-Polito Bay , -286.639038;30.567659;6239.389648 , Barbers
-Sandy Shores , 1938.357910;31.607185;3717.808350 , Barbers
-Havick , -27.791309;56.515392;-136.863708 , Barbers
-Rockford Hills , -829.426392;36.921909;-191.582718 , Barbers
-Vespucci , -1294.995239;6.157444;-1117.641724 , Barbers
-Mirror Park , 1198.025757;65.670250;-471.814178 , Barbers
-Davis , 127.762802;28.659100;-1718.656494 , Barbers
+Polito Bay , -286.64;30.57;6239.39 , Barbers
+Sandy Shores , 1938.36;31.61;3717.81 , Barbers
+Havick , -27.79;56.52;-136.86 , Barbers
+Rockford Hills , -829.43;36.92;-191.58 , Barbers
+Vespucci , -1295;6.16;-1117.64 , Barbers
+Mirror Park , 1198.03;65.67;-471.81 , Barbers
+Davis , 127.76;28.66;-1718.66 , Barbers
 --
 --LSC And Auto Shops:
-Mort Mutual Insurance , -221.749908;23.040998;-1158.249756 , LSC And Auto Shops
-Bennys Garage , -196.349442;30.650515;-1303.103271 , LSC And Auto Shops
-Beekers Garage , 116.223175;31.462461;6606.201660 , LSC And Auto Shops
-Sandy Shores , 1176.822632;37.370682;2657.973145 , LSC And Auto Shops
-Grand Senora Dust , 1173.452271;37.289780;2661.584717 , LSC And Auto Shops
-Burton , -370.533752;38.197617;-130.402649 , LSC And Auto Shops
-Little Seoul Car Wash , -701.829956;18.589094;-921.928772 , LSC And Auto Shops
-La Mesa , 709.295471;21.975765;-1081.996216 , LSC And Auto Shops
-Strawberry Car Wash , 57.513451;28.968079;-1389.658691 , LSC And Auto Shops
-Los Santos Airport , -1135.707275;12.976217;-1987.154175 , LSC And Auto Shops
-Simeon Docks , 1205.028442;5.374923;-3089.802490 , LSC And Auto Shops
+Mort Mutual Insurance , -221.75;23.04;-1158.25 , LSC And Auto Shops
+Bennys Garage , -196.35;30.65;-1303.1 , LSC And Auto Shops
+Beekers Garage , 116.22;31.46;6606.2 , LSC And Auto Shops
+Sandy Shores , 1176.82;37.37;2657.97 , LSC And Auto Shops
+Grand Senora Dust , 1173.45;37.29;2661.59 , LSC And Auto Shops
+Burton , -370.53;38.2;-130.4 , LSC And Auto Shops
+Little Seoul Car Wash , -701.83;18.59;-921.93 , LSC And Auto Shops
+La Mesa , 709.3;21.98;-1082 , LSC And Auto Shops
+Strawberry Car Wash , 57.51;28.97;-1389.66 , LSC And Auto Shops
+Los Santos Airport , -1135.71;12.98;-1987.15 , LSC And Auto Shops
+Simeon Docks , 1205.03;5.37;-3089.8 , LSC And Auto Shops
 --
 --Ammu Nation:
-Polito Bay , -318.859039;30.614943;6074.433105 , Ammu Nation
-Sandy Shores , 1704.671997;33.286053;3748.880615 , Ammu Nation
-Great Chaparral , -1108.600830;18.177374;2685.694092 , Ammu Nation
-Chumash , -3155.888672;20.188726;1073.844482 , Ammu Nation
-Palomino Fwy , 2571.371826;107.970573;313.879608 , Ammu Nation
-Hawick , 235.666794;69.221313;-42.263149 , Ammu Nation
-Morningwood , -1328.592896;36.126881;-387.114410 , Ammu Nation
-Little Seoul , -665.232727;20.866556;-952.522522 , Ammu Nation
-La Mesa , 844.439026;27.511728;-1009.422424 , Ammu Nation
-Pillbox Hill , 17.377790;28.469843;-1122.183105 , Ammu Nation
-Cypress Flats , 814.442017;28.867798;-2130.448486 , Ammu Nation
+Polito Bay , -318.86;30.61;6074.43 , Ammu Nation
+Sandy Shores , 1704.67;33.29;3748.88 , Ammu Nation
+Great Chaparral , -1108.6;18.18;2685.69 , Ammu Nation
+Chumash , -3155.89;20.19;1073.84 , Ammu Nation
+Palomino Fwy , 2571.37;107.97;313.88 , Ammu Nation
+Hawick , 235.67;69.22;-42.26 , Ammu Nation
+Morningwood , -1328.59;36.13;-387.11 , Ammu Nation
+Little Seoul , -665.23;20.87;-952.52 , Ammu Nation
+La Mesa , 844.44;27.51;-1009.42 , Ammu Nation
+Pillbox Hill , 17.38;28.47;-1122.18 , Ammu Nation
+Cypress Flats , 814.44;28.87;-2130.45 , Ammu Nation
 --
 --Tattos:
-Polito Bay , -285.910400;30.626459;6202.941895 , Tattos
-Sandy Shores , 1853.771851;32.395195;3746.440918 , Tattos
-Chumash , -3155.888672;20.188726;1073.844482 , Tattos
-Vinewood , 318.228790;103.146561;164.457535 , Tattos
-Vespucci , -1163.504639;4.360025;-1413.232788 , Tattos
-El Burro Heights , 1318.160889;51.787762;-1642.176147 , Tattos
+Polito Bay , -285.91;30.63;6202.94 , Tattos
+Sandy Shores , 1853.77;32.4;3746.44 , Tattos
+Chumash , -3155.89;20.19;1073.84 , Tattos
+Vinewood , 318.23;103.15;164.46 , Tattos
+Vespucci , -1163.51;4.36;-1413.23 , Tattos
+El Burro Heights , 1318.16;51.79;-1642.18 , Tattos
 --
 --Airports:
-Los Santos Airport , -1070.906250;13.773568;-2972.122803 , Airports
-Flight School , -1142.084229;13.324973;-2697.341553 , Airports
-Sandy Shores , 1682.196411;40.647972;3279.987793 , Airports
-McKenzie Airfield , 2124.625732;40.479958;4805.270020 , Airports
-Fort Zancudo, -2446.711182;32.194775 ;3142.811035 , Airports
-Fort Zancudo Front , -1563.743286;16.819347;2769.382080 , Airports
-LS Airport Hangar , -978.708496;13.317889;-3001.840820 , Airports
+Los Santos Airport , -1070.91;13.77;-2972.12 , Airports
+Flight School , -1142.08;13.32;-2697.34 , Airports
+Sandy Shores , 1682.2;40.65;3279.99 , Airports
+McKenzie Airfield , 2124.63;40.48;4805.27 , Airports
+Fort Zancudo , -2446.71;32.19;3142.81 , Airports
+Fort Zancudo Front , -1563.74;16.82;2769.38 , Airports
+LS Airport Hangar , -978.71;13.32;-3001.84 , Airports
 --
 --Good Places:
-Strip Club , 135.548096;28.344141;-1308.388306 , Good Places
-Darts , 1997.273071;46.789749;3062.091309 , Good Places
-Golf , -1379.665039;53.053589;51.105522 , Good Places
---
+Strip Club , 135.55;28.34;-1308.39 , Good Places
+Darts , 1997.27;46.79;3062.09 , Good Places
+Golf , -1379.67;53.05;51.11 , Good Places
 --Good Movies:
-Vinewood Cinema , 300.407776;103.590019;193.051071 , Good Movies
-Ten Cent , 401.796814;28.569710;-713.924988 , Good Movies
-Morningwood Cinema , -1410.071167;46.502586;-199.047531 , Good Movies
+Vinewood Cinema , 300.41;103.59;193.05 , Good Movies
+Ten Cent , 401.8;28.57;-713.93 , Good Movies
+Morningwood Cinema , -1410.07;46.5;-199.05 , Good Movies

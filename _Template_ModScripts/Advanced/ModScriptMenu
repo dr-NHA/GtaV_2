@@ -1,0 +1,352 @@
+
+//Name Of The Menu
+var ModName="Mod";
+
+var NUM=0;//Mod Menu Size - Auto Makes Iteslf When Creating The Menu!
+
+//Width Of The Menu!
+var ModMenuWidth=230;
+
+//Store Double Quotations As String
+var SM='"';
+
+//Template Function
+function NULL_FUNCTION(){
+//Alert("Function Does Nothing!");
+}
+
+
+//Creates A New Stringlist Called Opts For Our Execution Options
+var Opts=StringList();
+
+//Sets Our Current Menu
+var CurrentMenu="HUBMENU";
+
+//Creates A New Stringlist Called MenusOpened For The Menus That Have Been Opened
+var MenusOpened=StringList();
+
+function SetupMenu(MENUNAME){
+//Set The Starting Mod Index
+//Mod Index Is Needed To Show What Position The Mod Should Be In
+var N=0;
+//Clears Previous Execution Options
+Opts.Clear();
+//Checks The Menu Name To See What Sub We Want To Access
+if(MENUNAME=="HUBMENU"){CurrentMenu=MENUNAME;MenusOpened.Add(MENUNAME);
+//Creates The Main Menu Option
+ShowMod(N,"Main Menu","OpenMenu('MAINMENU');");
+//Adds 1 To The Mod Index
+N++;
+
+//Creates The Players Menu Option
+ShowMod(N,"Players Menu","NULL_FUNCTION();");N++;
+
+//Creates The Recovery Menu Option
+ShowMod(N,"Recovery Menu","NULL_FUNCTION();");N++;
+
+//Creates The Settings Menu Option
+ShowMod(N,"Settings Menu","NULL_FUNCTION();");N++;
+
+}else if(MENUNAME=="MAINMENU"){CurrentMenu=MENUNAME;MenusOpened.Add(MENUNAME);
+    ShowMod(N, "God Mode: " + GodMode_,"GodMode_=!GodMode_;");N++;
+ShowMod(N,"Suicide","LocalPlayer.Health=0;");N++;
+ShowMod(N,"Max Current Ammo","LocalPlayer.Weapon.Clip=999;");N++;
+ShowMod(N,"Never Wanted: "+NeverWanted_,"NeverWanted_=!NeverWanted_;");N++;
+
+}
+//Refresh The Menu Options
+MenuRFSH();
+}
+
+//Our ModMenus Neverwanted Flag
+var NeverWanted_ = false;
+
+//Our ModMenus Godmode Flag
+var GodMode_ = false;
+
+//Does Our Mods For Us!
+function MOD_LOOP() {
+//Checks If Never Wanted Is On
+if (NeverWanted_) {
+//Sets Our Wanted Level To 0
+LocalPlayer.PlayerInfo.RO_WantedLevel= 0;
+LocalPlayer.PlayerInfo.WantedLevel= 0;
+
+}
+//Gives Us Godmode Depending On Our Menus Godmode Flag
+LocalPlayer.Entity.GodMode = GodMode_;
+}
+function RemoveOldGUI_IfLoaded(){
+//Removes All Controls From The Overlay
+//This Isnt Good For Loading Multiple Menus!
+//Overlay.InnerOverlay.Controls.Clear();
+//
+
+//Targeted Removal Of GUI Components!
+RemoveGuiFrom(Overlay.InnerOverlay,ModName+"_Title");
+RemoveGuiFrom(Overlay.InnerOverlay,ModName+"_Controls");
+for(var VAX=0;VAX<100;VAX++){
+RemoveGuiFrom(Overlay.InnerOverlay,ModName+"_"+VAX);
+}
+}
+
+
+
+function Start(){
+//Closes The Old Threads If Any Were Running
+_CloseThread=true;
+//Removes Old GUI
+RemoveOldGUI_IfLoaded();
+//Starting Mod Number
+NUM=0;
+//Start Y Pos And The Distance Between Labels
+var YPos=60;var ix=22;
+//Creates The Title Label
+AddLabel(ModName+"_Title",205,255,205,0,120,100,
+"NHA Modscript Menu | by: dr NHA",
+//Creates The Controls Label
+0,YPos,ModMenuWidth,8,"left",Overlay.InnerOverlay);
+YPos=YPos+ix;
+AddLabel(ModName+"_Controls",205,255,205,0,120,100,
+"UP/Down : Scroll | Left:Back | Right:Select",
+0,YPos,ModMenuWidth,6.8,"left",Overlay.InnerOverlay);
+
+//Create The Mod Labels
+for(var inr=0;inr<20;inr++){
+YPos=YPos+ix;
+AddLabel(ModName+"_"+NUM,255,255,255,0,0,0,
+"MODINDEX: "+NUM,0,YPos,ModMenuWidth,7,"left",Overlay.InnerOverlay);
+NUM++;
+}
+NUM--;//Backs Up By 1
+
+//Closes The Menu For Startup
+CloseMenu();
+//Refreshes GUI Objects
+MenuRFSH();
+//Starts The New Thread For The Menu Controller
+Wait_ThenExecute(920,"_CloseThread=false;MenuController();");
+}
+//Starts The New Thread For The Setup
+Wait_ThenExecute(200,"Start();");
+
+//Stores The State For When The Menu Is Open Or Not
+var MenuOpened=false;
+
+//Toggles The Menu Opened
+function Toggle_MenuShown(){
+//Checks If Menu Is Not Open
+if(MenuOpened==false){
+//Opens Menu
+ShowMenu();
+}else{
+//Closes Menu
+CloseMenu();
+}
+}
+
+//Shows The Current Menu
+function ShowMenu(){OpenMenu(CurrentMenu);
+}
+
+//Opens A Menu Via Its Name
+function OpenMenu(MenuName){
+//Alert(MenuName);
+//Calls The HideMenu Function
+HideMenu();
+//Flags The Menu As Open
+MenuOpened=true;
+//Shows The Title
+ShowLABEL("Title");
+//Shows The Controls
+ShowLABEL("Controls");
+//Calls The Setup Menu Function With The MenuName Arg
+SetupMenu(MenuName);
+}
+
+//Hides Menu
+function HideMenu() {
+//Flags The Menu As Closed
+MenuOpened=false;
+//Goes Through Every Loaded Mod And Hides Them
+for(var iX=0;iX<=NUM;iX++){
+HideMod(iX);
+}
+}
+
+//Hises And Closes Menu
+function CloseMenu() {
+//Clears The Menu Names We Have Open
+MenusOpened.Clear();
+//Flags The Menu As Closed
+MenuOpened=false;
+//Sets Our Current Menu As The HUBMENU
+CurrentMenu="HUBMENU";
+//Hides The Title
+HideLABEL("Title");
+//Hides The Controls
+HideLABEL("Controls");
+//Goes Through Every Loaded Mod And Hides Them
+for(var iX=0;iX<=NUM;iX++){
+HideMod(iX);
+}
+}
+
+//Shows A Label
+function ShowLABEL(ind) {
+//Detects If The Label Exists On A Parent
+if(GuiExists(Overlay.InnerOverlay,ModName+"_"+ind)){
+//Grabs The Gui Object And Shows It
+GuiFrom(Overlay.InnerOverlay,ModName+"_"+ind).Show();
+}
+}
+
+//Hides A Label
+function HideLABEL(ind){
+//Detects If The Label Exists On A Parent
+if(GuiExists(Overlay.InnerOverlay,ModName+"_"+ind)){
+//Grabs The Gui Object And Hides It
+GuiFrom(Overlay.InnerOverlay,ModName+"_"+ind).Hide();
+}
+}
+
+//Shows A Mod And Creates The Execution Arg
+function ShowMod(ind,TEXT,FUNCT){
+//Detects If The Mod Index Exists On A Parent
+if(GuiExists(Overlay.InnerOverlay,ModName+"_"+ind)){
+//Grabs The Gui Object And Stores It Inside A New Temp Variable
+var GUI = GuiFrom(Overlay.InnerOverlay,ModName+"_"+ind);
+//Sets The Text Of The Object
+GUI.Text=TEXT;
+//Shows The Object
+GUI.Show();
+//Creates The Execution Arg
+Opts.Add(FUNCT);
+}
+}
+
+//Hides A Mod
+function HideMod(ind) {
+//Calls The HidesLabel Function With The Mod Index As The Arg
+HideLABEL(ind);
+}
+
+//Variable For Our Scroll Position
+var LastModSelectedId = 0;
+
+//Finds Our Mod Item Via Its Index And Sets Its Color Up For The Scroll Bar
+function RFSH(ind) {
+//Detects If The Mod Index Exists On A Parent
+if(GuiExists(Overlay.InnerOverlay,ModName+"_"+ind)){
+//Grabs The Gui Object And Stores It Inside A New Temp Variable
+var GUI = GuiFrom(Overlay.InnerOverlay,ModName+"_"+ind);
+//Check What Our Color Should Be Based On Our Scroll Position
+if(LastModSelectedId==ind){
+//Sets The Color
+GuiBackReColor(GUI,20,0,90);
+}else{
+//Sets The Color
+GuiBackReColor(GUI,0,0,0);
+}
+}
+}
+
+//Function To Recolor All Mod Items To Make Our Scrollbar Effect
+function MenuRFSH() {
+//Goes Through All Our Mod Items
+for(var iX=0;iX<=NUM;iX++){
+//Finds Our Mod Item Via Its Index And Sets Its Color Up For The Scroll Bar
+RFSH(iX);
+}}
+
+//Executes The Mod Based Off Our Scroll Position
+function SelectMod(){
+if(LastModSelectedId!=-1){
+var NUMBA=LastModSelectedId;
+Execute(Opts[NUMBA]);
+ShowMenu();
+}}
+
+//Goes To The Previous Menu
+function GoBack(){
+if(MenusOpened.Count>1){
+var LastMenu=MenusOpened[MenusOpened.Count-2];
+//Alert(LastMenu);
+LastModSelectedId=0;
+MenusOpened.Remove(CurrentMenu);
+OpenMenu(LastMenu);
+MenusOpened.Remove(LastMenu);
+}}
+
+//Scrolls Up
+function ScrollUP(){
+if(LastModSelectedId!=0){
+LastModSelectedId--;
+}else{
+LastModSelectedId=Opts.Count-1;
+}
+MenuRFSH();
+}
+
+//Scrolls Down
+function ScrollDown(){
+if(LastModSelectedId!=Opts.Count-1){
+LastModSelectedId++;
+}else{
+LastModSelectedId=0;
+}
+MenuRFSH();
+}
+
+
+var _CloseThread=false;
+var ContPressed=false;
+var MovIndexPressed=false;
+
+function MenuController() {
+
+//Checks If We Are Not Pressing Insert Incase We Have Already Pressed It
+if(Windows.ButtonPressed("Insert")&&!ContPressed){
+ContPressed=true;
+//Alert("Bind Pressed!");
+Toggle_MenuShown();
+}
+
+//Checks If We Are Not Pressing Insert Incase We Have Already Pressed It
+if(ContPressed){if(!Windows.ButtonPressed("Insert")){ContPressed=false;}}
+
+//Checks If The Menu Is Opened!
+if(MenuOpened){
+//Checks If We Have Already Pressed A Movement Button
+if(MovIndexPressed==false){
+if(Windows.ButtonPressed("Up")){
+ScrollUP();MovIndexPressed=true;
+}
+if(Windows.ButtonPressed("Down")){
+ScrollDown();MovIndexPressed=true;
+}
+if(Windows.ButtonPressed("Right")){
+SelectMod();MovIndexPressed=true;
+}
+if(Windows.ButtonPressed("Left")){
+GoBack();MovIndexPressed=true;
+}
+
+
+//Checks If We Are Not Movement Pressing Buttons Incase We Have Already Pressed One
+}else if(!Windows.ButtonPressed("Up")&&
+!Windows.ButtonPressed("Down")&&
+!Windows.ButtonPressed("Right")&&
+!Windows.ButtonPressed("Left")
+){
+//Marks The Flag As False As We Are Not Pressing Buttons
+MovIndexPressed=false;}
+}
+
+//Checks If The Thread Should Not Be Closed!
+if(!_CloseThread){
+//IF Not Closed Re Execute The Controller!
+Wait_ThenExecute(120,"MenuController();");
+//Loops Our Mods
+MOD_LOOP();
+}}

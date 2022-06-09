@@ -2,6 +2,8 @@ ShowAllOnMinimap: Global_2810701.f_5960.f_1
 BallisticEquipmentCost: Global_262145.f_20083
 RigSlots: Local_1339
 LocalPlayerGameOffsets: Global_262145
+spawn_rcbandito: Global_2810701.f_6708
+spawn_minitank: Global_2810701.f_6709
 GetPlayerRank: Global_1853131[PlayerID*888].f_205.f_6
 oVMCreate: Global_2725269
 oVMYCar: Global_2810701
@@ -59,6 +61,9 @@ MAX_NUM_NETWORK_PICKUPS: Global_1656895
 MaximumMoneyPickupValue: Global_262145.f_166
 MaximumMoneyTransactionValue: Global_262145.f_6842
 GetPlayerOrganizationName: Global_1893551[PlayerID*599].f_10.f_105 
+Casino_Chips_Purchased: Global_262145.f_26851
+Casino_Chips_Won: Global_262145.f_26852
+Trigger_Casino_Member_Bonus: Global_1966309
 GetBusinessIndex: Global_1853131[PlayerID*888].f_267.f_187[BusinessID*13] 
 oVMSlots: Global_1585853
 IsTransactionErrorShown: Global_4529830

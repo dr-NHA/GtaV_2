@@ -11,7 +11,7 @@ oVGETIn: Global_2671447
 PickupiParamOffset: Global_4528329
 GetPlayerKillDeathRatio: Global_1853131[PlayerID*888].f_205.f_26
 GetPlayerKillsCount: Global_1853131[PlayerID*888].f_205.f_28
-GetPlayerDeathsCount: Global_1853131[PlayerID*888].f_205.f_29=(func_1883(joaat("mpply_deaths_player")) + func_1883(joaat("mpply_deaths_player_suicide")));
+GetPlayerDeathsCount: Global_1853131[PlayerID*888].f_205.f_29
 GetPlayerTotalRacesWon: Global_1853131[PlayerID*888].f_205.f_15
 GetPlayerTotalRacesLost: Global_1853131[PlayerID*888].f_205.f_16
 GetPlayerTimesFinishRaceTop3: Global_1853131[PlayerID*888].f_205.f_17
@@ -64,7 +64,8 @@ oVMSlots: Global_1585853
 IsTransactionErrorShown: Global_4529830
 IsHostPlayer: Global_1893551[PlayerID*599].f_10 
 GetWalletBalance: Global_1853131[PlayerID*888].f_205.f_3
-SetSelfModelTrigger: Global_2671447.f_59
+SetSelfModelTrigger: Global_2671447.f_59 
+SetSelfModelHash: Global_2671447.f_46
 BluePhoneType: Global_77852
 NG_filmnoir_BW: Global_112922.f_10049.f_134
 TimeBetweenGoodSport: Global_262145.f_134

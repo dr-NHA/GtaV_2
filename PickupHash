@@ -1,4 +1,3 @@
-FIGURE_COLLECT , 2657EF41
 p_parachute_s_shop , 68211033
 prop_armour_pickup , 29CB0F3C
 w_lr_rpg_rocket , 9A3207B7
@@ -61,3 +60,12 @@ prop_ld_ammo_pack_02 , 5CFBCE2B
 prop_ld_health_pack , 28781518
 prop_mp_repair , E6FA7770
 prop_choc_pq , 51ED3B8F
+bkr_prop_coke_boxeddoll: 817F0D0E
+vw_prop_vw_colle_sasquatch: 991F8C36
+vw_prop_vw_colle_beast: 748F3A2A
+vw_prop_vw_colle_rsrgeneric: 23DDE6DB
+vw_prop_vw_colle_rsrcomm: D937A5E9
+vw_prop_vw_colle_pogo: 3D1B7A2F
+vw_prop_vw_colle_prbubble: 1A126315
+vw_prop_vw_colle_imporage: 1A9736DA
+vw_prop_vw_colle_alien: 4D6514A3

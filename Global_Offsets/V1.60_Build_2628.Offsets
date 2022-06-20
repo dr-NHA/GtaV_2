@@ -8,6 +8,7 @@ GetPlayerXP: Global_1853131.f_1[PlayerID*888].f_205.f_6
 GetPlayerLevel: Global_1853131.f_1[PlayerID*888].f_205.f_1
 oVMCreate: Global_2725269
 oVMYCar: Global_2810701
+GetPlayerOrganizationName: Global_1893551[PlayerID*599].f_10.f_104
 MainPickupOffset: Global_2783345
 PickupSpawnOffset: Global_2783351
 oVGETIn: Global_2671447
@@ -62,7 +63,6 @@ MAX_NUM_NETWORK_OBJECTS: Global_1656894
 MAX_NUM_NETWORK_PICKUPS: Global_1656895
 MaximumMoneyPickupValue: Global_262145.f_166
 MaximumMoneyTransactionValue: Global_262145.f_6842
-GetPlayerOrganizationName: Global_1893551[PlayerID*599].f_10.f_105 
 Casino_Chips_Purchased: Global_262145.f_26851
 Casino_Chips_Won: Global_262145.f_26852
 Trigger_Casino_Member_Bonus: Global_1966309
@@ -71,7 +71,7 @@ oVMSlots: Global_1585853
 IsTransactionErrorShown: Global_4529830
 IsHostPlayer: Global_1893551.f_1[PlayerID*599].f_10 
 PlayerSessionBlank: Global_1575012
-GetWalletBalance: Global_1853131.f_1[PlayerID*888].f_205.f_3
+GetPlayerWalletBalance: Global_1853131.f_1[PlayerID*888].f_205.f_3
 oPlayerGA: Global_2703660
 SetSelfModelTrigger: Global_2671447.f_59 
 SetSelfModelHash: Global_2671447.f_46
@@ -84,3 +84,4 @@ PlayerSessionNew: Global_1574589
 TCP_StraightFlush: Local_1029.f_799.f_2
 TCP_Current_Table: Local_740[PlayerID*9]
 TCP_Current_Table_Data: Local_107.f_168[TCP_Current_Table*55].f_2
+NightclubCargo: Global_262145.f_24156

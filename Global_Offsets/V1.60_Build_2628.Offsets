@@ -6,9 +6,10 @@ spawn_rcbandito: Global_2810701.f_6708
 spawn_minitank: Global_2810701.f_6709
 GetPlayerXP: Global_1853131.f_1[PlayerID*888].f_205.f_6
 GetPlayerLevel: Global_1853131.f_1[PlayerID*888].f_205.f_1
+GetPlayerOrganizationName: Global_1893551[PlayerID*599].f_10.f_105
 oVMCreate: Global_2725269
 oVMYCar: Global_2810701
-GetPlayerOrganizationName: Global_1893551[PlayerID*599].f_10.f_104
+GetPlayerOrganizationColour: Global_1893551[PlayerID*599].f_10.f_104
 MainPickupOffset: Global_2783345
 PickupSpawnOffset: Global_2783351
 oVGETIn: Global_2671447

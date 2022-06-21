@@ -1,7 +1,7 @@
 ShowAllOnMinimap: Global_2810701.f_5960.f_1
 force_script_on_lobby_trigger: Global_2775756.f_2
 force_script_on_lobby_scriptid: Global_2775756.f_3.f_1
-LobbyEvent_AM_HOLD_UP: case 1
+LobbyEvent_AM_HOLD_UP: 1
 LobbyEvent_AM_JOYRIDER: 32
 LobbyEvent_AM_PLANE_TAKEDOWN: 33
 LobbyEvent_AM_DISTRACT_COPS: 34

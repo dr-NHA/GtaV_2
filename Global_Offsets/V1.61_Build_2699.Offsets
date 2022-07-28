@@ -296,3 +296,4 @@ TCP_StraightFlush: Local_1031.f_799.f_2
 TCP_Current_Table: Local_742[PlayerID*9]
 TCP_Current_Table_Data: Local_109.f_168[TCP_Current_Table*55].f_2
 NightclubCargo: Global_262145.f_24415
+turn_snow_on_off: Global_262145.f_4751

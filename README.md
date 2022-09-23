@@ -25,9 +25,8 @@
 
 [Images For Peds (Low Quality)](https://github.com/dr-NHA/GtaV_2/tree/main/PedModelsLow)
 
-[Images For Boats](https://github.com/dr-NHA/GtaV_2/tree/main/boats), 
-
 Vehicle Images: 
+[Boats](https://github.com/dr-NHA/GtaV_2/tree/main/boats), 
 [Compacts](https://github.com/dr-NHA/GtaV_2/tree/main/compacts), 
 [Coupes](https://github.com/dr-NHA/GtaV_2/tree/main/coupes), 
 [Cycles](https://github.com/dr-NHA/GtaV_2/tree/main/cycles), 

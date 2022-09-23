@@ -9,5 +9,6 @@
 ## Model Images For Cars And Peds
 ## Images For Weapons
 ## Globals, Locals & Other Scripting Stuff (Updated Via My [GTAV C Source Scanner](https://github.com/dr-NHA/GTAV-C-Source-Scanner))
+## [Currently Known And Unknown Natives](https://github.com/dr-NHA/GtaV_2/tree/main/Natives)
 
 # Please Post Issues Of Anything You Want To Add Or Fix!

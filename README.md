@@ -26,8 +26,9 @@
 
 ## Globals, Locals & Other Scripting Stuff (Updated Via My [GTAV C Source Scanner](https://github.com/dr-NHA/GTAV-C-Source-Scanner))
 
-
-## [Currently Known And Unknown Natives](https://github.com/dr-NHA/GtaV_2/tree/main/Natives)
+## Currently Known And Unknown Natives
+[Known](https://github.com/dr-NHA/GtaV_2/tree/main/Natives/Natives.dat)
+[Unknown](https://github.com/dr-NHA/GtaV_2/tree/main/Natives/NativesUnknown.dat)
 
 
 # Please Post Issues Of Anything You Want To Add Or Fix!

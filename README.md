@@ -8,23 +8,18 @@
 (Note: I Dont Research And Add Any Vehicles From GTA Online, These Were Added By People Messaging Me!)
 
 ## Hashes For Almost Everything
-[Weapon Hashes](https://github.com/dr-NHA/GtaV_2/blob/main/WeaponHash)
-
-[Vehicle Hashes](https://github.com/dr-NHA/GtaV_2/blob/main/VehicleHash)
-
-[Pickup Hashes](https://github.com/dr-NHA/GtaV_2/blob/main/PickupHash)
-
-[Ped Hashes](https://github.com/dr-NHA/GtaV_2/blob/main/PedHash)
-
-[Weapon Component Hashes](https://github.com/dr-NHA/GtaV_2/blob/main/WeaponComponentHash)
+[Weapon](https://github.com/dr-NHA/GtaV_2/blob/main/WeaponHash), 
+[Vehicle](https://github.com/dr-NHA/GtaV_2/blob/main/VehicleHash), 
+[Pickup](https://github.com/dr-NHA/GtaV_2/blob/main/PickupHash), 
+[Ped](https://github.com/dr-NHA/GtaV_2/blob/main/PedHash), 
+[Weapon Component](https://github.com/dr-NHA/GtaV_2/blob/main/WeaponComponentHash)
 
 
 ## Model Images For Cars, Peds & Weapons
-[Images For Weapons](https://github.com/dr-NHA/GtaV_2/tree/main/Weapons)
+[Weapons](https://github.com/dr-NHA/GtaV_2/tree/main/Weapons)
 
-[Images For Peds](https://github.com/dr-NHA/GtaV_2/tree/main/PedModels)
-
-[Images For Peds (Low Quality)](https://github.com/dr-NHA/GtaV_2/tree/main/PedModelsLow)
+[Peds](https://github.com/dr-NHA/GtaV_2/tree/main/PedModels), 
+[Peds (Low Quality)](https://github.com/dr-NHA/GtaV_2/tree/main/PedModelsLow)
 
 Vehicle Images: 
 [Boats](https://github.com/dr-NHA/GtaV_2/tree/main/boats), 
@@ -56,8 +51,7 @@ Vehicle Images:
 ## [Globals, Locals & Other Scripting Stuff](https://github.com/dr-NHA/GtaV_2/tree/main/Global_Offsets) (Updated Via My [GTAV C Source Scanner](https://github.com/dr-NHA/GTAV-C-Source-Scanner))
 
 ## Currently Known And Unknown Natives
-[Known Natives](https://github.com/dr-NHA/GtaV_2/tree/main/Natives/Natives.dat)
-
+[Known Natives](https://github.com/dr-NHA/GtaV_2/tree/main/Natives/Natives.dat), 
 [Unknown Natives](https://github.com/dr-NHA/GtaV_2/tree/main/Natives/NativesUnknown.dat)
 
 

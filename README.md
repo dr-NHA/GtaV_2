@@ -4,7 +4,7 @@
 
 # What Is Inside This Repo?
 (Everything Is Made To Easily Code Your Application To Use This Repo As A Place To Grab Images Ect)
-
+(Note: I Dont Research And Add Any Vehicles From GTA Online, These Were Added By People Messaging Me!)
 
 ## Hashes For Almost Everything
 [Weapon Hashes](https://github.com/dr-NHA/GtaV_2/blob/main/WeaponHash)

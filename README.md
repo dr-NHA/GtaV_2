@@ -18,13 +18,13 @@
 [Weapon Component Hashes](https://github.com/dr-NHA/GtaV_2/blob/main/WeaponComponentHash)
 
 
-## Model Images For Cars And Peds
+## Model Images For Cars, Peds & Weapons
+[Images For Weapons](https://github.com/dr-NHA/GtaV_2/tree/main/Weapons)
+[Images For Peds](https://github.com/dr-NHA/GtaV_2/tree/main/PedModels)
+[Images For Peds (Low Quality)](https://github.com/dr-NHA/GtaV_2/tree/main/PedModelsLow)
+[Images For Peds (Low Quality)](https://github.com/dr-NHA/GtaV_2/tree/main/PedModelsLow)
 
-
-## Images For Weapons
-
-
-## Globals, Locals & Other Scripting Stuff (Updated Via My [GTAV C Source Scanner](https://github.com/dr-NHA/GTAV-C-Source-Scanner))
+## [Globals, Locals & Other Scripting Stuff](https://github.com/dr-NHA/GtaV_2/tree/main/Global_Offsets) (Updated Via My [GTAV C Source Scanner](https://github.com/dr-NHA/GTAV-C-Source-Scanner))
 
 ## Currently Known And Unknown Natives
 [Known Natives](https://github.com/dr-NHA/GtaV_2/tree/main/Natives/Natives.dat)

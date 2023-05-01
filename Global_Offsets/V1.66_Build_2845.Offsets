@@ -235,6 +235,13 @@ GetPlayerXP: Global_1853910.f_1[PlayerID*862].f_205.f_1
 GetPlayerOrganizationName: Global_1894573.f_1[PlayerID*608].f_10.f_105
 oVMCreate: Global_2694562
 oVMYCar: Global_2793046
+oVMSlots: Global_1586468
+IsTransactionErrorShown: Global_4536673
+IsHostPlayer: Global_1894573.f_1[PlayerID*608].f_10 
+GetPlayerWalletBalance: Global_1853910[PlayerID*862].f_205.f_4
+FleecaHeist_VLSI_CircuitBreaker: Local_3116.f_24
+apartment_cut: Global_1937658.f_3008[1+iVar0*1]
+Trigger_Casino_Member_Bonus: Global_1970465
 ****Cannot Find Script: RemoteProtections
 ****Cannot Find Script: stop_cutscene_movie
 ****Cannot Find Script: stop_cutscene
@@ -252,11 +259,5 @@ oVMYCar: Global_2793046
 ****Cannot Find Script: PlayerIndex_Function
 ****Cannot Find Script: GetPlayerOrganizationColour_Function
 ****Cannot Find Script: GetPlayerData_Function
-oVMSlots: Global_1586468
-IsTransactionErrorShown: Global_4536673
-IsHostPlayer: Global_1894573.f_1[PlayerID*608].f_10 
-GetPlayerWalletBalance: Global_1853910[PlayerID*862].f_205.f_4
-FleecaHeist_VLSI_CircuitBreaker: Local_3116.f_24
 ****Cannot Find Script: NightclubCargo
 ****Cannot Find Script: CasinoHeistKeypadCrack
-apartment_cut: Global_1937658.f_3008[1+iVar0*1]

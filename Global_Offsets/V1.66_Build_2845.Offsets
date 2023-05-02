@@ -242,6 +242,14 @@ GetPlayerWalletBalance: Global_1853910[PlayerID*862].f_205.f_4
 FleecaHeist_VLSI_CircuitBreaker: Local_3116.f_24
 apartment_cut: Global_1937658.f_3008[1+iVar0*1]
 Trigger_Casino_Member_Bonus: Global_1970465
+AFKOffset5: Global_262145.f_8252 
+AFKOffset6: Global_262145.f_8249 
+AFKOffset7: Global_262145.f_8250 
+AFKOffset8: Global_262145.f_8251 
+AFKOffset1: Global_262145.f_90 
+AFKOffset2: Global_262145.f_87 
+AFKOffset3: Global_262145.f_88 
+AFKOffset4: Global_262145.f_89 
 ****Cannot Find Script: RemoteProtections
 ****Cannot Find Script: stop_cutscene_movie
 ****Cannot Find Script: stop_cutscene

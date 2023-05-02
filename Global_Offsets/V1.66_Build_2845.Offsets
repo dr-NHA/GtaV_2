@@ -242,6 +242,7 @@ GetPlayerWalletBalance: Global_1853910[PlayerID*862].f_205.f_4
 FleecaHeist_VLSI_CircuitBreaker: Local_3116.f_24
 apartment_cut: Global_1937658.f_3008[1+iVar0*1]
 Trigger_Casino_Member_Bonus: Global_1970465
+IsCurrentWorldNetworked: Global_1666891
 AFKOffset5: Global_262145.f_8252 
 AFKOffset6: Global_262145.f_8249 
 AFKOffset7: Global_262145.f_8250 

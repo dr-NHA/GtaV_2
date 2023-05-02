@@ -211,7 +211,6 @@ LobbyEvent_fm_content_taxi_driver: 170
 LobbyEvent_fm_content_xmas_mugger: 171
 LobbyEvent_fm_content_bank_shootout: 172
 ShowAllOnMinimap: Global_2793046.f_5992.f_1
-RigSlots: Local_207
 CayoCutBase: Global_1977693
 CayoCut: Global_1977693.f_823.f_56[1+iVar0*1]
 CasinoCutBase: Global_1970895
@@ -253,6 +252,7 @@ AFKOffset3: Global_262145.f_88
 AFKOffset4: Global_262145.f_89 
 stop_cutscene: Global_1575060
 stop_cutscene_movie: Global_2766500.f_3
+RigSlots: Local_1343
 ****Cannot Find Script: RemoteProtections
 ****Cannot Find Script: stop_cutscene_movie
 ****Cannot Find Script: stop_cutscene

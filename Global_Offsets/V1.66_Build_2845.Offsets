@@ -289,3 +289,6 @@ GetPlayerLevel: Global_1853910.f_1[PlayerID*862].f_205.f_6
 GetPlayerXP: Global_1853910.f_1[PlayerID*862].f_205.f_1
 GetPlayerOrganizationName: Global_1894573.f_1[PlayerID*608].f_10.f_105
 GetPlayerWalletBalance: Global_1853910[PlayerID*862].f_205.f_4
+RespawnPersonalVehicleHasEngineRunning: Global_2639783.f_11
+GetInPersonalVehicle: Global_2639783.f_8
+RespawnPersonalVehicle: Global_2639783.f_6 

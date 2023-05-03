@@ -229,15 +229,11 @@ IsPhoneOpen: Global_20383.f_1
 BallisticEquipmentCost: Global_262145.f_20288
 spawn_rcbandito: Global_2793046.f_6874
 spawn_minitank: Global_2793046.f_6875
-GetPlayerLevel: Global_1853910.f_1[PlayerID*862].f_205.f_6
-GetPlayerXP: Global_1853910.f_1[PlayerID*862].f_205.f_1
-GetPlayerOrganizationName: Global_1894573.f_1[PlayerID*608].f_10.f_105
 oVMCreate: Global_2694562
 oVMYCar: Global_2793046
 oVMSlots: Global_1586468
 IsTransactionErrorShown: Global_4536673
 IsHostPlayer: Global_1894573.f_1[PlayerID*608].f_10 
-GetPlayerWalletBalance: Global_1853910[PlayerID*862].f_205.f_4
 FleecaHeist_VLSI_CircuitBreaker: Local_3116.f_24
 apartment_cut: Global_1937658.f_3008[1+iVar0*1]
 Trigger_Casino_Member_Bonus: Global_1970465
@@ -253,22 +249,43 @@ AFKOffset4: Global_262145.f_89
 stop_cutscene: Global_1575060
 stop_cutscene_movie: Global_2766500.f_3
 RigSlots: Local_1343
-****Cannot Find Script: RemoteProtections
-****Cannot Find Script: stop_cutscene_movie
-****Cannot Find Script: stop_cutscene
-****Cannot Find Script: STAT_SET_INT
-****Cannot Find Script: Stat_Set_Int_Hash
-****Cannot Find Script: PlayerSessionBlank_Func
-****Cannot Find Script: MainPickupSpawnFunction
-****Cannot Find Script: PickupiParamFunction
-****Cannot Find Script: VehicleGetInFunction
-****Cannot Find Script: AFK_Function
-****Cannot Find Script: FreemodeCasino_Function
-****Cannot Find Script: LocalPlayerGame_Function
-****Cannot Find Script: MaxTransaction_Main_Function
-****Cannot Find Script: MainNetwork_Function
-****Cannot Find Script: PlayerIndex_Function
-****Cannot Find Script: GetPlayerOrganizationColour_Function
-****Cannot Find Script: GetPlayerData_Function
-****Cannot Find Script: NightclubCargo
-****Cannot Find Script: CasinoHeistKeypadCrack
+GetPlayerKillDeathRatio: Global_1853910.f_1[PlayerID*862].f_205.f_26
+GetPlayerKillsCount: Global_1853910.f_1[PlayerID*862].f_205.f_28
+GetPlayerDeathsCount: Global_1853910.f_1[PlayerID*862].f_205.f_29
+GetPlayerTotalRacesWon: Global_1853910.f_1[PlayerID*862].f_205.f_15
+GetPlayerTotalRacesLost: Global_1853910.f_1[PlayerID*862].f_205.f_16
+GetPlayerTimesFinishRaceTop3: Global_1853910.f_1[PlayerID*862].f_205.f_17
+GetPlayerTimesFinishRaceLast: Global_1853910.f_1[PlayerID*862].f_205.f_18
+GetPlayerTimesRaceBestLap: Global_1853910.f_1[PlayerID*862].f_205.f_19
+GetPlayerTotalDeathmatchWon: Global_1853910.f_1[PlayerID*862].f_205.f_20
+GetPlayerTotalDeathmatchLost: Global_1853910.f_1[PlayerID*862].f_205.f_21
+GetPlayerTotalTeamDeathmatchWon: Global_1853910.f_1[PlayerID*862].f_205.f_22
+GetPlayerTotalTeamDeathmatchLost: Global_1853910.f_1[PlayerID*862].f_205.f_23
+GetPlayerTimesFinishDmTop3: Global_1853910.f_1[PlayerID*862].f_205.f_30
+GetPlayerTimesFinishDmLast: Global_1853910.f_1[PlayerID*862].f_205.f_31
+GetPlayerDartsTotalWon: Global_1853910.f_1[PlayerID*862].f_205.f_32
+GetPlayerDartsTotalMatches: Global_1853910.f_1[PlayerID*862].f_205.f_33
+GetPlayerArmWrestlingTotalWins: Global_1853910.f_1[PlayerID*862].f_205.f_34
+GetPlayerArmWrestlingTotalMatches: Global_1853910.f_1[PlayerID*862].f_205.f_35
+GetPlayerTennisMatchesWon: Global_1853910.f_1[PlayerID*862].f_205.f_36
+GetPlayerTennisMatchesLost: Global_1853910.f_1[PlayerID*862].f_205.f_37
+GetPlayerBjWins: Global_1853910.f_1[PlayerID*862].f_205.f_38
+GetPlayerBjLost: Global_1853910.f_1[PlayerID*862].f_205.f_39
+GetPlayerGolfWins: Global_1853910.f_1[PlayerID*862].f_205.f_40
+GetPlayerGolfLosses: Global_1853910.f_1[PlayerID*862].f_205.f_41
+GetPlayerShootingRangeWins: Global_1853910.f_1[PlayerID*862].f_205.f_42
+GetPlayerShootingRangeLosses: Global_1853910.f_1[PlayerID*862].f_205.f_43
+GetPlayerHordeWins: Global_1853910.f_1[PlayerID*862].f_205.f_47
+GetPlayerCrHorde: Global_1853910.f_1[PlayerID*862].f_205.f_48
+GetPlayerMcmWin: Global_1853910.f_1[PlayerID*862].f_205.f_45
+GetPlayerCrMission: Global_1853910.f_1[PlayerID*862].f_205.f_46
+GetPlayerMissionsCreated: Global_1853910.f_1[PlayerID*862].f_205.f_50
+GetPlayerDropOutRate: Global_1853910.f_1[PlayerID*862].f_205.f_27
+GetPlayerCanSpectate: Global_1853910.f_1[PlayerID*862].f_205.f_52
+GetPlayerMostFavoriteStation: Global_1853910.f_1[PlayerID*862].f_205.f_53
+GetPlayerWalletAndBankBalance: Global_1853910[bVar0*862].f_205.f_57
+GetPlayerOrganizationColour: Global_1894573.f_1[PlayerID*608].f_10.f_104
+GetPlayerLevel: Global_1853910.f_1[PlayerID*862].f_205.f_6
+GetPlayerXP: Global_1853910.f_1[PlayerID*862].f_205.f_1
+GetPlayerOrganizationName: Global_1894573.f_1[PlayerID*608].f_10.f_105
+GetPlayerWalletBalance: Global_1853910[PlayerID*862].f_205.f_4
